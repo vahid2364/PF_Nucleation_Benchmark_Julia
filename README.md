@@ -1,5 +1,7 @@
 # PF_Nucleation_Benchmark_Julia
 
+THIS IS A FORK VERSION - Nov. 10 2022
+
 ## Introduction and Motivation
 This repository was inspired by a phase field benchmark described in PF Hub: https://pages.nist.gov/pfhub/benchmarks/benchmark8.ipynb/
 
